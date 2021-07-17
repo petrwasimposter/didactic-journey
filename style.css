@@ -1,0 +1,76 @@
+body{
+    font-family: Roboto,sans-serif;
+    background: url("https://rossaprimavera.ru/static/files/79f128a0ab93.jpg");
+}
+a{
+    text-decoration: none;
+    color: rgb(204, 202, 202);
+    font-size: 23px;
+}
+a:hover{
+    color: black;
+    background-color: rgb(204, 202, 202);
+    padding: 10px;
+    transition: ease-in-out 1s;
+}
+div{
+    background-color: white;
+}
+.wer1{
+    width: 350px;
+    height: 250px;
+}
+h2{
+   padding-top: 195px;
+   padding-left: 169px;
+}
+.wer1{
+    background: url("https://yandex-images.clstorage.net/1zE0j0323/f55699YRa/YofBn9HEYDLyEuTQFUaZLyMKw_ZTn9AzjBQ8DEjlWiGZ5zilYRhKGZ7WvhDpCEpRgw8gDydKr8PhuvfJMqWxbirezbbpnTB-5lOgnKUqpSYqIravD4vRN_wlaRw0_CppyYJ51Mg0Ohinr-eszRheLT-nrHb7vgpPVTcffDPFnBomprS-uASZap7WyLRgnklnZgq3woOHUAoM-Iw98NEOaKnLSBE9KLZE748XyQTld6nfB_iqG4IO45kTLwRb4fy64lfoXtCsUCoiqiiwQK4xj9YKn3q7H0jicOCkzbSx6miNz3RJ-cAmuOf_WzWwcas9pw8g3jdG0k857xekBw1M2vbv5MYI8NiyYlZskBBKsauyAufeQyN0Giz89E08Id4gFQP8MflMSrSbU1uBhAGLTftL7Foj0i5H0QezWP8V_D729zhqQHzYdkoqdMCY9sUTBmqX1kNv6JJ48DDNkHUKaJETeN1ZEC7AZxs76aB5p8UX1wzmp6Y629m_W5xTgfwyJv8EakzsSP4ydiCEjPaNI9qSq_b_24jmrOhIeVRp4iAJN_RFUbC-QEtHT7U09ZN5Y7-0Gqf6Dmehb_toG-U8pmLT5B68yHTy4ppsMMyy4X9eErtGJ8t0MtwQgA3YqQ50NZMglV1sqoR_FzvFMMF_hQtfvLIj_g47zZMvdB8FRJoqc9Au0NhgyqLq9MRouvGLajYXKo8bJHq4bEBJ8FkSKDlPaDUthB40g_-jNTjxu_FTb3C2a9IKl00zF6CfGWDOou8kTvzIzLr6olDUZDYRByquc17_o2hKjAyUQeAZnrT5P3Ct3ZyyCDvfJ81UDd-FbzuMtmeGnqcxex_0s0XoluJPzJIIbGgiYh40ePAmsQtC0ptm-4sgbpiUcPmw0eKo-Tu8IamcEhAXyytloDU_rUf_pNpf-vLn5TPnhBPRfI5W0yiuaMRcIuJqZPAAZrmXCnIP7q8LjLosHHQ1JN30");
+}
+.wer1:hover{
+    height: 300px;
+    padding-top: 16px;
+    padding-right: 23px;
+}
+.gig{
+    font-size: 18px;
+    color: black;
+}
+.gig:hover{
+    background-color: transparent;
+}
+.wer2{
+    background: url("https://smart-lab.ru/uploads/images/09/02/87/2020/03/26/f927eb.jpg");
+    width: 465px;
+    margin-bottom: 45px;
+    margin-right: 75px;
+}
+.gig2{
+    color: black;
+}
+.wer2:hover{
+    width: 565px;
+    height: 300px;
+}
+p{
+    font-size: 30px;
+}
+.fo{
+    font-size: 19px;
+}
+.f{
+    background-color: wheat;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+}
+.f:hover{
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 20px;
+}
+footer{
+    background-image: 
+    linear-gradient(to left bottom, DodgerBlue, SpringGreen);
+    border-radius: 15px;
+}
